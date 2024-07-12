@@ -1,0 +1,103 @@
+انتظر(0.1)
+اللعبة. StarterGui:SetCore("إرسال الإشعار"، {
+    العنوان = "『RV』";
+    نص = "تم تفعيل البرنامج النصي لفريق RV"; -- فريق RV --
+    المدة = 5؛
+})
+
+local colors = {
+    SchemeColor = Color3.fromRGB(255,255,255),
+    Background = Color3.fromRGB(20, 20, 20),
+    Header = Color3.fromRGB(255, 255, 255),
+    TextColor = Color3.fromRGB(255,255,255),
+    ElementColor = Color3.fromRGB(20, 20, 20)
+}
+
+
+
+
+المكتبة المحلية = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+النافذة المحلية = Library.CreateLib("RV", "BloodTheme")
+علامة التبويب المحلية = النافذة: علامة تبويب جديدة ("Brookhaven")
+القسم المحلي = Tab:NewSection("تم إنشاء البرنامج النصي بواسطة catay")
+القسم: NewButton("Redz hub", "Redz", function()loadstring(game:HttpGet("https://raw.githubusercontent.com/REDzHUB/REDzHUB/main/REDzHUB"))()
+    end) 
+    اطبع ("تم النقر")loadstring(اللعبة:HttpGet("https://raw.githubusercontent.com/JulHubz/JulHub/main/JulHub"))()
+القسم: NewButton("المركز الذري"، "الذري"، دالة()
+    طباعة ("تم النقر")loadstring(اللعبة:HttpGet('https://raw.githubusercontent.com/n0kc/AtomicHub/main/Script.lua'))()
+نهاية)
+القسم: NewButton("System_Broken", "System_Broken", function()
+    اطبع ("تم النقر")loadstring(اللعبة:HttpGet("https://scriptblox.com/raw/Ragdoll-Engine-BEST-SCRIPT-WORKING-SystemBroken-7544"))()
+النهاية)القسم:زر جديد("أداة TP"، "أداة TP"، دالة()
+    اطبع ("تم النقر")loadstring(اللعبة:HttpGet("https://scriptblox.com/raw/Brookhaven-RP-Mikeexc-Tptool-V1-10960"))()
+النهاية)القسم: NewButton("®4D", "®4D", function()
+    اطبع ("تم النقر")loadstring(اللعبة:HttpGet('https://raw.githubusercontent.com/M1ZZ001/BrookhavenR4D/main/Brookhaven%20R4D%20Script'))()
+نهاية)
+
+علامة التبويب المحلية = نافذة: علامة تبويب جديدة ("Blox Fruits")
+القسم المحلي = Tab:NewSection("تم إنشاء البرنامج النصي بوا سطة catay")
+القسم: NewButton("Redz hub", "redz", function()
+    اطبع ("تم النقر")loadstring(اللعبة:HttpGet("https://raw.githubusercontent.com/REDzHUB/BloxFruits/main/redz9999"))()
+القسم: NewButton("محور المتجه"، "محور المتجه"، دالة()
+    طباعة ("تم النقر")loadstring(اللعبة:HttpGet("https://pastebin.com/raw/4QtEAA6g"))()
+نهاية)
+
+علامة التبويب المحلية = النافذة: علامة تبويب جديدة ("mm2")
+القسم المحلي = Tab:NewSection("تم إنشاء البرنامج النصي بواسطة catay")
+القسم:NewButton("mm2", "mm2", function()
+  اطبع ("تم النقر")loadstring(اللعبة:HttpGet("https://raw.githubusercontent.com/tbao143/thaibao/main/TbaoHubMurderMystery2") )( )
+نهاية)
+علامة التبويب المحلية = نافذة: علامة تبويب جديدة ("القتلة ضد الشريفين")
+القسم المحلي = Tab:NewSection("تم إنشاء البرنامج النصي بواسطة catay")
+القسم:NewButton("القتلة ضد رجال الشرطة"، "أفضل القتلة ضد رجال الشرطة"، function()
+    اطبع ("تم النقر")loadstring(اللعبة:HttpGet("https://raw.githubusercontent.com/Bebo-Mods/BeboScripts/main/MurderersVsSheriffs.lua"))()
+نهاية)
+
+علامة التبويب المحلية = النافذة: علامة تبويب جديدة ("T-TiaTns")
+القسم المحلي = Tab:NewSection("تم إنشاء البرنامج النصي بواسطة catay")
+القسم: NewButton("T-TiaTns", "T-TiaTns", function()
+    اطبع ("تم النقر")loadstring(اللعبة:HttpGet("https://scriptblox.com/raw/Teen-Titans-Battlegrounds-OP-TEEN-TIATNS-SCRIPT-6522"))()
+نهاية)
+
+علامة التبويب المحلية = نافذة: علامة تبويب جديدة ("الرجاء التبرع")
+القسم المحلي = Tab:NewSection("تم إنشاء البرنامج النصي بواسطة catay")
+القسم:NewButton("الرجاء التبرع", "الرجاء التبرع", function()
+    اطبع ("تم النقر") loadstring(اللعبة: HttpGet("https://raw.githubusercontent.com/CF-Trail/tzechco-PlsDonateAutofarmBackup/main/autofarm"))()
+نهاية)
+
+علامة التبويب المحلية = النافذة: علامة تبويب جديدة ("Piggy")
+القسم المحلي = Tab:NewSection("تم إنشاء البرنامج النصي بواسطة catay")
+القسم: NewButton("Piggy", "best piggy", function()
+    طباعة ("تم النقر")loadstring(اللعبة:HttpGet("https://scriptblox.com/raw/Piggy-SCRIPT-10828"))()
+نهاية)
+
+علامة التبويب المحلية = النافذة: علامة تبويب جديدة ("المسؤولون")
+القسم المحلي = Tab:NewSection("تم إنشاء البرنامج النصي بواسطة catay")
+القسم:NewButton("إدارة العائد اللانهائي"، "إدارة جميع الألعاب"، function()
+    اطبع ("تم النقر")loadstring(اللعبة:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
+نهاية)
+القسم:NewButton("مسؤول بلا اسم"، "مسؤول عن جميع الألعاب"، function()
+    طباعة ("تم النقر")loadstring(اللعبة:HttpGet("https://scriptblox.com/raw/Universal-Script-Nameless-Admin-FE-11243"))()
+نهاية)
+القسم: NewButton("مسؤول اللعبة"، "مسؤول عن جميع الألعاب"، function()
+    اطبع ("تم النقر")loadstring(اللعبة:HttpGet('https://raw.githubusercontent.com/leg1337/legadmv2/main/legadminv2.lua'))()
+نهاية)
+القسم: NewButton("إدارة السجلات"، "إدارة جميع الألعاب"، function()
+    طباعة ("تم النقر")loadstring(اللعبة:HttpGet('https://raw.githubusercontent.com/BloodyBurns/Hex/main/Iv%20Admin%20v3.lua'))()
+نهاية)
+
+علامة التبويب المحلية = Window:NewTab("البرامج النصية لجميع الألعاب")
+القسم المحلي = Tab:NewSection("تم إنشاء البرنامج النصي بواسطة catay")
+القسم:NewButton("Fling GUI"، "البرامج النصية لجميع الألعاب"، function()
+    طباعة("تم النقر")
+نهاية)
+القسم:NewButton("الرقص"، "نصوص لجميع الألعاب"، function()
+    طباعة ("تم النقر")loadstring(اللعبة:HttpGet("https://pastebin.com/raw/eCpipCTH"))()
+القسم: NewButton("FLY"، "البرامج النصية لجميع الألعاب"، function()
+    اطبع ("تم النقر")loadstring(اللعبة:HttpGet("https://scriptblox.com/raw/Universal-Script-I-Fly-gui-V3-I-6627"))()
+القسم: NewButton("VFLY"، "البرامج النصية لجميع الألعاب"، function()
+    طباعة ("تم النقر")loadstring(اللعبة:HttpGet("https://pastebin.com/raw/MHE1cbWF"))()
+نهاية)
+القسم:NewButton("antiban", "نصوص لجميع الألعاب", function()
+    اطبع ("تم النقر")loadstring(اللعبة:HttpGet("https://scriptblox.com/raw/Universal-Script-Antiban-ROBLOX-5892"))()
+نهاية)
